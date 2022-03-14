@@ -8,9 +8,9 @@ Exercise and project files for the Perception for Autonomous Systems course at t
    
    `pip install -r requirements.txt`
 
-2. Unzip the desired directories
+2. Unzip the lfs data directory
 
-    `DIR=name ./unzip_files.sh`
+    `DIR=data ./unzip_files.sh`
 
-    where `name` can be *projects, exercises or data/...*
+    where `name` can be *data or one of its subfolders*
 
